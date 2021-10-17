@@ -1,0 +1,5 @@
+cocos 4.0
+需要Cmake进行编译 在项目下创建build文件夹 cmd : cmake .. -G "Visual Studio 15 2017" -Tv141 -A win32 // 
+                                            cmake .. -G "Visual Studio 17 2019" -Tv142 -A win32
+
+创建项目 cocos new  项目名 -l cpp -p com.cn -d ./
