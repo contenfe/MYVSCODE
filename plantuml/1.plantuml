@@ -1,0 +1,20 @@
+@startuml
+
+
+
+class s{
+    void main();
+}
+
+
+class s1{
+    void main();
+}
+
+
+s--left-->s1: 爱情来了
+
+
+
+
+@enduml
