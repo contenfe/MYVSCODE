@@ -2,19 +2,14 @@
 
 
 
-class s{
-    void main();
-}
+/'管理
 
+## s<--left-->s1: 爱情来了
+'/
 
-class s1{
-    void main();
-}
-
-
-s--left-->s1: 爱情来了
-
-
+----->;
+.....>;
+------|>;
 
 
 @enduml
